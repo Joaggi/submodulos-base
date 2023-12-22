@@ -1,0 +1,6 @@
+[submodule "src/submodulos/modelos/regresion-logistica"]
+	path = src/submodulos/modelos/regresion-logistica
+	url = git@github.com:Joaggi/submodulos-regresion-logistica.git
+[submodule "src/submodulos/modelos/regresion_lineal"]
+	path = src/submodulos/modelos/regresion_lineal
+	url = git@github.com:Joaggi/submodulos-regresion-lineal.git
